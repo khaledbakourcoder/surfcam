@@ -1,0 +1,11 @@
+# JetBrains IDE Ordner
+.idea/
+
+# Node modules überall
+node_modules/
+
+# Build Ordner
+dist/
+build/
+out/
+.next
